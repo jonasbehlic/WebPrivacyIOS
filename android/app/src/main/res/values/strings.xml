@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TestVAOW</string>
+    <string name="title_activity_main">TestVAOW</string>
+    <string name="package_name">com.vaow.betatest</string>
+    <string name="custom_url_scheme">com.vaow.betatest</string>
+</resources>
